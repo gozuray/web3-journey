@@ -25,6 +25,7 @@ Print numbers from 1 to 100 with the following rules:
 
 ## 📂 Structure
 
+```text
 day02/
 ├── fizzbuzz.js
 └── README.md
